@@ -1,3 +1,4 @@
+package ClueTree;
 import java.util.Scanner;
 
 class ClueTree {
